@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th {
+ 
+    height: 20px;
+    padding: 0px;
+    
+  }
+  
+  input {
+    margin: 0px;
+    width: 150px;
+  }
+  
+  div {
+    width: 40px;
+  }
+  
